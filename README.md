@@ -894,3 +894,7 @@ You can copy, modify, distribute, and perform the work, even for commercial purp
 <p align="center">
   Made with ❤️ by <a href="https://github.com/girishlade111">Girish Lade</a>
 </p>
+
+---
+
+**Built by Girish Lade** — [ladestack.in](https://ladestack.in)
